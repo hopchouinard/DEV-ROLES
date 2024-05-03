@@ -1,0 +1,258 @@
+{
+    "team": [
+        {
+            "TeamName": "Basic Development Team",
+            "RoleDefinition": {
+                "Title": "Java Backend Developer",
+                "Description": "A Java Backend Developer is responsible for server-side web application logic and integration of the work front-end developers do. They write web services and APIs used by front-end developers and mobile application developers."
+            },
+            "WorkExperience": [
+                {
+                    "Title": "Junior Java Backend Developer",
+                    "Description": "Developed and maintained server-side logic for business processes. Worked closely with front-end developers to integrate user-facing elements with server-side logic."
+                },
+                {
+                    "Title": "Senior Java Backend Developer",
+                    "Description": "Led the design and implementation of server-side logic. Optimized the application for speed and scalability. Implemented data storage solutions and ensured high performance of request handling."
+                }
+            ],
+            "SoftSkills": [
+                "Analytical thinking",
+                "Problem-solving",
+                "Good communication",
+                "Teamwork",
+                "Attention to detail"
+            ],
+            "TechnicalAbilities": [
+                "Proficient in Java and frameworks like Spring and Hibernate",
+                "Understanding of front-end technologies and platforms, such as JavaScript, HTML5, and CSS3",
+                "Understanding of accessibility and security compliance",
+                "Knowledge of user authentication and authorization between multiple systems, servers, and environments",
+                "Experience with cloud platforms like AWS, Google Cloud, or Azure",
+                "Experience with containerization technologies like Docker and orchestration tools like Kubernetes",
+                "Proficiency in database technologies, both SQL (like MySQL, Oracle) and NoSQL (like MongoDB, Cassandra)",
+                "Experience with microservices architecture",
+                "Understanding of CI/CD pipelines and DevOps culture",
+                "Knowledge of unit testing and TDD (Test Driven Development)"
+            ],
+            "OtherRelevantInformation": {
+                "Education": "Bachelor's degree in Computer Science or related field",
+                "Certifications": [
+                    "Oracle Certified Professional, Java SE 8 Programmer",
+                    "Spring Professional Certification",
+                    "AWS Certified Developer - Associate",
+                    "Microsoft Certified: Azure Developer Associate",
+                    "Google Cloud Certified - Professional Cloud Developer"
+                ],
+                "Languages": [
+                    "Java",
+                    "SQL",
+                    "JavaScript",
+                    "HTML",
+                    "CSS",
+                    "Python",
+                    "C#",
+                    "Ruby"
+                ],
+                "Tools": [
+                    "Eclipse",
+                    "IntelliJ IDEA",
+                    "Git",
+                    "Maven",
+                    "Gradle",
+                    "Postman",
+                    "Jenkins"
+                ]
+            }
+        },
+        {
+            "TeamName": "Basic Development Team",
+            "RoleDefinition": {
+                "Title": "Project Manager",
+                "Description": "A Project Manager is responsible for planning, executing, and closing projects, ensuring they are completed on time, within budget, and to the required quality standards. They coordinate efforts among team members and other departments to achieve project goals."
+            },
+            "WorkExperience": [
+                {
+                    "Title": "Assistant Project Manager",
+                    "Description": "Supported project planning and execution, managed project documentation, and assisted in communication with stakeholders."
+                },
+                {
+                    "Title": "Project Coordinator",
+                    "Description": "Coordinated project activities, monitored project schedules, and reported on project progress to senior management."
+                },
+                {
+                    "Title": "Project Manager",
+                    "Description": "Led cross-functional teams to deliver projects, managed project scope and changes, and ensured project deliverables met stakeholder expectations."
+                }
+            ],
+            "SoftSkills": [
+                "Leadership",
+                "Communication",
+                "Negotiation",
+                "Conflict Resolution",
+                "Adaptability",
+                "Problem-Solving",
+                "Time Management"
+            ],
+            "TechnicalAbilities": [
+                "Project Scheduling and Strategic Management",
+                "Proficiency with Project Management Tools",
+                "Budgeting and Cost Control",
+                "Risk Management",
+                "Quality Assurance",
+                "Understanding of IT Infrastructure"
+            ],
+            "OtherRelevantInformation": {
+                "Education": "Typically requires a Bachelor's degree in Business Administration, Management, or a related field.",
+                "Certifications": [
+                    "Project Management Professional (PMP)",
+                    "Certified Associate in Project Management (CAPM)"
+                ],
+                "Tools": [
+                    "Microsoft Project",
+                    "JIRA",
+                    "Asana",
+                    "Trello"
+                ]
+            }
+        },
+        {
+            "TeamName": "Basic Development Team",
+            "RoleDefinition": {
+                "Title": "Business Analyst",
+                "Description": "A Business Analyst acts as a liaison among stakeholders in order to understand the structure, policies, and operations of an organization, and to recommend solutions that enable the organization to achieve its goals."
+            },
+            "WorkExperience": [
+                {
+                    "Title": "Junior Business Analyst",
+                    "Description": "Involved in analyzing business processes and recommending improvements. Assisted in the documentation and reporting of business needs."
+                },
+                {
+                    "Title": "Senior Business Analyst",
+                    "Description": "Led teams to analyze complex business challenges and proposed comprehensive solutions. Managed stakeholder communication and requirements gathering."
+                }
+            ],
+            "SoftSkills": [
+                "Communication",
+                "Critical Thinking",
+                "Problem-Solving",
+                "Negotiation",
+                "Attention to Detail",
+                "Teamwork"
+            ],
+            "TechnicalAbilities": [
+                "Data Analysis and Visualization",
+                "Statistical and Quantitative Analysis",
+                "Proficiency in Business Intelligence Tools",
+                "Understanding of Programming Languages",
+                "Database Management"
+            ],
+            "OtherRelevantInformation": {
+                "Education": "Typically requires a Bachelor's degree in Business Administration, Finance, or related field.",
+                "Certifications": [
+                    "Certified Business Analysis Professional (CBAP)",
+                    "Certification of Competency in Business Analysis (CCBA)"
+                ],
+                "Tools": [
+                    "Microsoft Office Suite",
+                    "SQL Databases",
+                    "Business Intelligence Software",
+                    "Data Visualization Tools"
+                ]
+            }
+        },
+        {
+            "TeamName": "Basic Development Team",
+            "RoleDefinition": {
+                "Title": "Java Full Stack Developer",
+                "Description": "A Java Full Stack Developer is responsible for developing and designing front end web architecture, ensuring the responsiveness of applications, and working alongside graphic designers for web design features, among other duties."
+            },
+            "WorkExperience": [
+                {
+                    "Title": "Junior Java Full Stack Developer",
+                    "Description": "Worked on both front-end and back-end of web applications. Collaborated with design team to implement user-friendly interfaces."
+                },
+                {
+                    "Title": "Senior Java Full Stack Developer",
+                    "Description": "Led the development of complex web applications. Optimized applications for maximum speed and scalability. Ensured high performance and responsiveness of applications."
+                }
+            ],
+            "SoftSkills": [
+                "Problem-solving skills",
+                "Attention to detail",
+                "Communication",
+                "Teamwork",
+                "Creativity"
+            ],
+            "TechnicalAbilities": [
+                "Proficient in front-end languages such as HTML, CSS, JavaScript and server-side languages like Java",
+                "Experience with JavaScript frameworks such as Angular JS, React, or Amber",
+                "Proficiency in database technology such as MySQL, Oracle, and MongoDB",
+                "Understanding of server-side languages including Java, Python, Ruby, .Net",
+                "Experience with cloud message APIs and usage of push notifications"
+            ],
+            "OtherRelevantInformation": {
+                "Education": "Bachelor's degree in Computer Science or related field",
+                "Certifications": [
+                    "Oracle Certified Professional, Java SE 8 Programmer",
+                    "Microsoft Technology Associate (MTA)",
+                    "AWS Certified Developer - Associate"
+                ],
+                "Tools": [
+                    "Eclipse",
+                    "IntelliJ IDEA",
+                    "Visual Studio Code",
+                    "Git",
+                    "Maven",
+                    "Gradle",
+                    "Postman",
+                    "Jenkins"
+                ]
+            }
+        },
+        {
+            "TeamName": "Basic Development Team",
+            "RoleDefinition": {
+                "Title": "Technical Analyst",
+                "Description": "A Technical Analyst is responsible for analyzing technical systems and aligning them with business strategies and procedures to meet project goals. They monitor technical system errors and provide resolutions to ensure efficient and smooth operations."
+            },
+            "WorkExperience": [
+                {
+                    "Title": "Technical Analyst",
+                    "Description": "Assesses technical information to ensure alignment with procedures and strategies. Oversees technology use within a company and troubleshoots technical system errors."
+                },
+                {
+                    "Title": "Senior Technical Analyst",
+                    "Description": "Manages CRM databases, creates applications to monitor cloud infrastructure, suggests applications to improve effectiveness, and works with IT security engineers to implement security systems."
+                }
+            ],
+            "SoftSkills": [
+                "Problem-Solving",
+                "Communication",
+                "Adaptability",
+                "Critical Thinking",
+                "Team Collaboration",
+                "Attention to Detail"
+            ],
+            "TechnicalAbilities": [
+                "Proficiency in Programming Languages (Java, JavaScript, Python, PowerShell, C#, SQL)",
+                "Knowledge of Database Management Systems",
+                "Experience with Network Protocols and Configurations",
+                "Understanding of Cybersecurity Principles",
+                "Familiarity with Software Development Methodologies and Frameworks"
+            ],
+            "OtherRelevantInformation": {
+                "Education": "Typically requires a Bachelor's degree in fields like Information Technology, Computer Science, or related areas.",
+                "Certifications": [
+                    "Certified Information Systems Security Professional (CISSP)",
+                    "Microsoft Certified: Azure Data Scientist Associate"
+                ],
+                "Tools": [
+                    "SQL Databases",
+                    "Data Visualization Software (Tableau, Power BI)",
+                    "Programming Environments (Visual Studio, VSCode, Intellij, Eclipse)"
+                ]
+            }
+        }
+    ]
+}
