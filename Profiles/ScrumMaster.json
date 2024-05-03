@@ -1,0 +1,41 @@
+{
+    "RoleDefinition": {
+        "Title": "Scrum Master",
+        "Description": "A Scrum Master is a facilitator for an agile development team. They are responsible for managing the exchange of information between team members."
+    },
+    "WorkExperience": [
+        {
+            "Title": "Junior Scrum Master",
+            "Description": "Assisted in facilitating daily scrum, sprint planning, sprint demo and retrospective meetings. Helped in forecasting the numbers of deliverables possible in an iteration. Assisted the team to avoid or remove impediments to its progress."
+        },
+        {
+            "Title": "Senior Scrum Master",
+            "Description": "Managed Scrum framework for delivering and sustaining complex products. Led the technical team and the product owners in an Agile development process. Mentored junior Scrum Masters and helped in resolving complex impediments."
+        }
+    ],
+    "SoftSkills": [
+        "Leadership",
+        "Communication",
+        "Problem-solving",
+        "Facilitation",
+        "Conflict resolution"
+    ],
+    "TechnicalAbilities": [
+        "Knowledge of agile methodology and frameworks like Scrum, Kanban, etc.",
+        "Understanding of software development processes and procedures.",
+        "Knowledge of backlog tracking, burndown metrics, velocity, and task definition."
+    ],
+    "OtherRelevantInformation": {
+        "Education": "Bachelor's degree in Computer Science",
+        "Certifications": [
+            "Certified Scrum Master (CSM)",
+            "Professional Scrum Master (PSM)",
+            "Advanced Certified ScrumMaster (A-CSM)"
+        ],
+        "Tools": [
+            "JIRA",
+            "Confluence",
+            "Trello"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+Help me define roles, list work experience, soft skills , technical abilities and any other relevant information. 
+I need the information in JSON format. I will provide you with the name of the roles I need you to define. 
+Do nothing until I provide you the name of the roles to define. Use the following json as template : 
+{
+  "RoleDefinition": {
+    "Title": "",
+    "Description": ""
+  },
+  "WorkExperience": [
+    {
+      "Title": "",
+      "Description": ""
+    },
+    {
+      "Title": "",
+      "Description": ""
+    }
+  ],
+  "SoftSkills": [
+    ""
+  ],
+  "TechnicalAbilities": [
+    ""
+  ],
+  "OtherRelevantInformation": {
+    "Education": "",
+    "Certifications": [
+      ""
+    ],
+    "Tools": [
+      ""
+    ]
+  }
+}

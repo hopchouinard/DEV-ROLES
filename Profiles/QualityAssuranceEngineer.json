@@ -1,0 +1,47 @@
+{
+  "RoleDefinition": {
+    "Title": "Quality Assurance Engineer",
+    "Description": "A Quality Assurance Engineer ensures that products or services meet specified standards and any customer requirements. They maintain the quality of a company's output by conducting thorough testing and evaluations before the final product reaches consumers."
+  },
+  "WorkExperience": [
+    {
+      "Title": "Quality Assurance Analyst",
+      "Description": "Involved in creating detailed, comprehensive, and well-structured test plans and test cases. Identified, documented, and tracked bugs to ensure high-quality products."
+    },
+    {
+      "Title": "Senior Quality Assurance Engineer",
+      "Description": "Managed and coordinated testing activities, defined test objectives, and developed both manual and automated test procedures. Performed functional, regression, and end-to-end testing on software products."
+    }
+  ],
+  "SoftSkills": [
+    "Problem-Solving",
+    "Attention to Detail",
+    "Good Communication",
+    "Empathy",
+    "Time Management",
+    "Creativity",
+    "Interpersonal Skills"
+  ],
+  "TechnicalAbilities": [
+    "Proficiency in Programming Languages (Java, JavaScript, Python, PowerShell, C#, SQL)",
+    "Expertise in Automation Tools (e.g., Selenium, Jenkins)",
+    "Experience with Software Testing and A/B Testing Tools",
+    "Knowledge of QA Testing for Various Platforms",
+    "Familiarity with Integrated Development Environment (IDE) Programs"
+  ],
+  "OtherRelevantInformation": {
+    "Education": "Typically requires a Bachelor's degree in Computer Science, Engineering, or a related field.",
+    "Certifications": [
+      "Certified Software Quality Analyst (CSQA)",
+      "Certified Manager of Software Quality (CMSQ)"
+    ],
+    "Tools": [
+      "JIRA",
+      "LoadRunner",
+      "QA Wolf",
+      "SQL",
+      "Testim",
+      "Visual Studio"
+    ]
+  }
+}

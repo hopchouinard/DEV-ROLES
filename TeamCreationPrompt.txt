@@ -1,0 +1,3 @@
+I need to create a virtual team, you will add profiles to the teams as I give them to you. 
+The definition of the profiles are stored in json file that I will give you.
+Do nothing until I give you a profile to add to the team.

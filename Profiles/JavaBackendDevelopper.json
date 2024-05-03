@@ -1,0 +1,64 @@
+{
+    "RoleDefinition": {
+        "Title": "Java Backend Developer",
+        "Description": "A Java Backend Developer is responsible for server-side web application logic and integration of the work front-end developers do. They write web services and APIs used by front-end developers and mobile application developers."
+    },
+    "WorkExperience": [
+        {
+            "Title": "Junior Java Backend Developer",
+            "Description": "Developed and maintained server-side logic for business processes. Worked closely with front-end developers to integrate user-facing elements with server-side logic."
+        },
+        {
+            "Title": "Senior Java Backend Developer",
+            "Description": "Led the design and implementation of server-side logic. Optimized the application for speed and scalability. Implemented data storage solutions and ensured high performance of request handling."
+        }
+    ],
+    "SoftSkills": [
+        "Analytical thinking",
+        "Problem-solving",
+        "Good communication",
+        "Teamwork",
+        "Attention to detail"
+    ],
+    "TechnicalAbilities": [
+        "Proficient in Java and frameworks like Spring and Hibernate",
+        "Understanding of front-end technologies and platforms, such as JavaScript, HTML5, and CSS3",
+        "Understanding of accessibility and security compliance",
+        "Knowledge of user authentication and authorization between multiple systems, servers, and environments",
+        "Experience with cloud platforms like AWS, Google Cloud, or Azure",
+        "Experience with containerization technologies like Docker and orchestration tools like Kubernetes",
+        "Proficiency in database technologies, both SQL (like MySQL, Oracle) and NoSQL (like MongoDB, Cassandra)",
+        "Experience with microservices architecture",
+        "Understanding of CI/CD pipelines and DevOps culture",
+        "Knowledge of unit testing and TDD (Test Driven Development)"
+    ],
+    "OtherRelevantInformation": {
+        "Education": "Bachelor's degree in Computer Science or related field",
+        "Certifications": [
+            "Oracle Certified Professional, Java SE 8 Programmer",
+            "Spring Professional Certification",
+            "AWS Certified Developer - Associate",
+            "Microsoft Certified: Azure Developer Associate",
+            "Google Cloud Certified - Professional Cloud Developer"
+        ],
+        "Languages": [
+            "Java",
+            "SQL",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Python",
+            "C#",
+            "Ruby"
+        ],        
+        "Tools": [
+            "Eclipse",
+            "IntelliJ IDEA",
+            "Git",
+            "Maven",
+            "Gradle",
+            "Postman",
+            "Jenkins"
+        ]
+    }
+}

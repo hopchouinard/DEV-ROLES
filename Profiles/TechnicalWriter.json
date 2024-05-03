@@ -1,0 +1,40 @@
+{
+    "RoleDefinition": {
+        "Title": "Technical Writer",
+        "Description": "A Technical Writer is responsible for creating technical documents and manuals, explain complex information in a clear and concise manner and working with technical staff to ensure accuracy of product descriptions."
+    },
+    "WorkExperience": [
+        {
+            "Title": "Junior Technical Writer",
+            "Description": "Assisted in creating and editing technical documentation including user manuals, technical reports, and instructional materials. Collaborated with technical staff to ensure understanding of product and documentation requirements."
+        },
+        {
+            "Title": "Senior Technical Writer",
+            "Description": "Led the creation and revision of comprehensive technical documentation. Provided guidance to junior technical writers. Collaborated with cross-functional teams for product understanding."
+        }
+    ],
+    "SoftSkills": [
+        "Excellent written and verbal communication",
+        "Attention to detail",
+        "Ability to quickly grasp complex technical concepts",
+        "Strong problem-solving skills",
+        "Good interpersonal skills"
+    ],
+    "TechnicalAbilities": [
+        "Proficiency in technical writing software like Adobe FrameMaker, MadCap Flare, etc.",
+        "Understanding of the technical concepts they are writing about",
+        "Ability to create diagrams, charts, and other visual aids to help readers understand complex concepts"
+    ],
+    "OtherRelevantInformation": {
+        "Education": "Bachelor's degree in English, Communications, or related field",
+        "Certifications": [
+            "Certified Professional Technical Communicator (CPTC)",
+            "Foundation Certification from the Society for Technical Communication (STC)"
+        ],
+        "Tools": [
+            "Microsoft Office Suite",
+            "Adobe FrameMaker",
+            "MadCap Flare"
+        ]
+    }
+}

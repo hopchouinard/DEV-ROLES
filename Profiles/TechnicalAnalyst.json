@@ -1,0 +1,43 @@
+{
+  "RoleDefinition": {
+    "Title": "Technical Analyst",
+    "Description": "A Technical Analyst is responsible for analyzing technical systems and aligning them with business strategies and procedures to meet project goals. They monitor technical system errors and provide resolutions to ensure efficient and smooth operations."
+  },
+  "WorkExperience": [
+    {
+      "Title": "Technical Analyst",
+      "Description": "Assesses technical information to ensure alignment with procedures and strategies. Oversees technology use within a company and troubleshoots technical system errors."
+    },
+    {
+      "Title": "Senior Technical Analyst",
+      "Description": "Manages CRM databases, creates applications to monitor cloud infrastructure, suggests applications to improve effectiveness, and works with IT security engineers to implement security systems."
+    }
+  ],
+  "SoftSkills": [
+    "Problem-Solving",
+    "Communication",
+    "Adaptability",
+    "Critical Thinking",
+    "Team Collaboration",
+    "Attention to Detail"
+  ],
+  "TechnicalAbilities": [
+    "Proficiency in Programming Languages (Java, JavaScript, Python, PowerShell, C#, SQL)",
+    "Knowledge of Database Management Systems",
+    "Experience with Network Protocols and Configurations",
+    "Understanding of Cybersecurity Principles",
+    "Familiarity with Software Development Methodologies and Frameworks"
+  ],
+  "OtherRelevantInformation": {
+    "Education": "Typically requires a Bachelor's degree in fields like Information Technology, Computer Science, or related areas.",
+    "Certifications": [
+      "Certified Information Systems Security Professional (CISSP)",
+      "Microsoft Certified: Azure Data Scientist Associate"
+    ],
+    "Tools": [
+      "SQL Databases",
+      "Data Visualization Software (Tableau, Power BI)",
+      "Programming Environments (Visual Studio, VSCode, Intellij, Eclipse)"
+    ]
+  }
+}

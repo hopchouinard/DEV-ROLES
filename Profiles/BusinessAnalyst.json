@@ -1,0 +1,44 @@
+{
+  "RoleDefinition": {
+    "Title": "Business Analyst",
+    "Description": "A Business Analyst acts as a liaison among stakeholders in order to understand the structure, policies, and operations of an organization, and to recommend solutions that enable the organization to achieve its goals."
+  },
+  "WorkExperience": [
+    {
+      "Title": "Junior Business Analyst",
+      "Description": "Involved in analyzing business processes and recommending improvements. Assisted in the documentation and reporting of business needs."
+    },
+    {
+      "Title": "Senior Business Analyst",
+      "Description": "Led teams to analyze complex business challenges and proposed comprehensive solutions. Managed stakeholder communication and requirements gathering."
+    }
+  ],
+  "SoftSkills": [
+    "Communication",
+    "Critical Thinking",
+    "Problem-Solving",
+    "Negotiation",
+    "Attention to Detail",
+    "Teamwork"
+  ],
+  "TechnicalAbilities": [
+    "Data Analysis and Visualization",
+    "Statistical and Quantitative Analysis",
+    "Proficiency in Business Intelligence Tools",
+    "Understanding of Programming Languages",
+    "Database Management"
+  ],
+  "OtherRelevantInformation": {
+    "Education": "Typically requires a Bachelor's degree in Business Administration, Finance, or related field.",
+    "Certifications": [
+      "Certified Business Analysis Professional (CBAP)",
+      "Certification of Competency in Business Analysis (CCBA)"
+    ],
+    "Tools": [
+      "Microsoft Office Suite",
+      "SQL Databases",
+      "Business Intelligence Software",
+      "Data Visualization Tools"
+    ]
+  }
+}
